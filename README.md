@@ -1,9 +1,10 @@
-# Numerical_Optimization
-These labs are about
-> Linear Regression with 
+# Numerical Optimization
+A repo for my work in numerical optimization course as part of AI-pro 9 month-program at ITI
+> These labs & HWs are about:
 - Batch gradient descent
 - Mini batch gradient descent
 - Stochastic gradient descent
-> Applying batch gradient descent with different algorithms like
 - Momentum based, NAG
-- Adagrad, RMSProb, Adam
+- Adagrad
+- RMSProb
+- Adam
